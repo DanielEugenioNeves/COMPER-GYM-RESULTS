@@ -1,0 +1,5 @@
+{"Trial": 1, "Time": "10-06-2023 14:55:36", "TotalEp": 50000, "Tqt": 100000000000, "Lstmep": 15, "StartLearn": 100000000000, "Upcritic": 1, "Qlstm_bs": 50000}
+{"Trial": 2, "Time": "10-06-2023 23:33:41", "TotalEp": 50000, "Tqt": 100000000000, "Lstmep": 15, "StartLearn": 100000000000, "Upcritic": 1, "Qlstm_bs": 50000}
+{"Trial": 3, "Time": "11-06-2023 08:18:06", "TotalEp": 50000, "Tqt": 100000000000, "Lstmep": 15, "StartLearn": 100000000000, "Upcritic": 1, "Qlstm_bs": 50000}
+{"Trial": 4, "Time": "11-06-2023 17:15:28", "TotalEp": 50000, "Tqt": 100000000000, "Lstmep": 15, "StartLearn": 100000000000, "Upcritic": 1, "Qlstm_bs": 50000}
+{"Trial": 5, "Time": "12-06-2023 01:53:15", "TotalEp": 50000, "Tqt": 100000000000, "Lstmep": 15, "StartLearn": 100000000000, "Upcritic": 1, "Qlstm_bs": 50000}
